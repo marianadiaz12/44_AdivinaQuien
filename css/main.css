@@ -1,0 +1,37 @@
+body{
+	background-color: #e74c3c;
+}
+*{
+	font-family: 'Playball', cursive;
+}
+.color-white{
+	color: #fff;
+}
+h1{
+	font-size: 6em;
+}
+p{
+	font-size: 1.5em;
+}
+span{
+	font-size: 2em;
+}
+
+.juego{
+	border: 1px solid #fff;
+	border-radius: 10px 10px;
+	padding: 5%;
+}
+.sede{
+	color: #000;
+}
+
+/*Margenes*/
+.mar-top-2{
+	margin-top: 2%;
+}
+.mar-top-5{
+	margin-top: 5%;
+}
+
+
